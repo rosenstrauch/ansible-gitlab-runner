@@ -47,7 +47,6 @@ Variables to set s3 as a shared cache server. If set it requires variables liste
 `gitlab_runner_cache_s3_insecure`
 `gitlab_runner_cache_cache_shared`
 
-
 aws autoscale runner machine
 https://docs.gitlab.com/runner/configuration/runner_autoscale_aws/#the-runnersmachine-section
 
